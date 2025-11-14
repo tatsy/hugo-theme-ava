@@ -6,9 +6,9 @@ description = "Ava is a light theme for your blog with essential features you mi
 homepage = "https://github.com/jmau111/hugo-theme-ava"
 demosite = "https://hugo-theme-ava.netlify.app/"
 
-tags = ["responsive","minimal","clean","blog","dark","seo"]
-features = ["blog","dark-mode","seo","form"]
+tags = ["responsive", "minimal", "clean", "blog", "dark", "seo"]
+features = ["blog", "dark-mode", "seo", "form"]
 
 [author]
-  name = "Julien Maury"
-  homepage = "https://www.julien-maury.dev"
+name = "Julien Maury"
+homepage = "https://www.julien-maury.dev"
